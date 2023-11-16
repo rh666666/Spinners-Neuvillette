@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spinners-Neuvillette", "Spinners-Neuvillette\Spinners-Neuvillette.vcxproj", "{25A8A614-71A7-4AD8-9F33-A20936A60BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Debug|x64.ActiveCfg = Debug|x64
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Debug|x64.Build.0 = Debug|x64
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Debug|x86.Build.0 = Debug|Win32
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Release|x64.ActiveCfg = Release|x64
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Release|x64.Build.0 = Release|x64
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Release|x86.ActiveCfg = Release|Win32
+		{25A8A614-71A7-4AD8-9F33-A20936A60BCE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F0754C2-F15C-4444-872F-FB4302233F91}
+	EndGlobalSection
+EndGlobal

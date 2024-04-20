@@ -1,12 +1,11 @@
-#include<stdio.h>
-#include<Windows.h>
+#include "head.h"
 
 int main() {
-	while (1) {
-		if (GetKeyState(VK_XBUTTON1) < 0) {
-			mouse_event(MOUSEEVENTF_MOVE, 800, 0, 0, 0);
-		}
-		Sleep(1);
-	}
+	HWND win = MakeWindow();
+	settextcolor(BLUE);
+	outtextxy(50, 55, L"按住鼠标侧键就可以转啦，快去试试吧！");
+	Spinners();
+
+	_getch();
 	return 0;
 }

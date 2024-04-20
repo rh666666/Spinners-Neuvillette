@@ -1,6 +1,8 @@
-﻿  Spinners.cpp
+﻿  MakeWindow.cpp
+  Spinners.cpp
+  main.cpp
   正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
-  Spinners-Neuvillette.vcxproj -> D:\学习相关资料\apps\Spinners-Neuvillette\x64\Release\Spinners-Neuvillette.exe
+  Spinners-Neuvillette.vcxproj -> D:\学习相关资料\apps\GenshinTools\Spinners-Neuvillette\x64\Release\Spinners-Neuvillette.exe

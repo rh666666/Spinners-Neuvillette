@@ -128,9 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MakeWindow.cpp" />
+    <ClCompile Include="Spinners.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
+    <ClInclude Include="head.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Spinners-Neuvillette.rc" />
